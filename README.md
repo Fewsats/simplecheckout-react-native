@@ -2,6 +2,8 @@
 
 This example demonstrates how to integrate SimpleCheckout's Hosted Connect in a React Native app using Expo.
 
+> **Note:** This example includes a debug panel that displays all messages received from the WebView. This is useful during development to see the message flow, but should be removed in your production app.
+
 ## Quick Start
 
 ```bash
